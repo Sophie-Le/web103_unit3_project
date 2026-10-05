@@ -4,7 +4,7 @@ Submitted by: **Sophie Le**
 
 About this web app: **App description here**
 
-Time spent: **5** hours
+Time spent: **1** hours
 
 ## Required Features
 
